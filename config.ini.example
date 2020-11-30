@@ -1,0 +1,12 @@
+[main]
+host=127.0.0.1
+port=1515
+
+[tarantool]
+db_host=127.0.0.1
+db_port=3303
+
+[generation]
+delay=0.1
+postcards_per_noun=10
+vanilla_postcards_count=50
